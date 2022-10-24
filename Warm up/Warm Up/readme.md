@@ -8,3 +8,4 @@ Submit the flag to gain points!
 Tengok dekat descriptions challenge
 
 # Flag
+SKR{pi3ce_0f_c4k3}
