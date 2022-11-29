@@ -1,11 +1,8 @@
-# Warm UP
+## Warm UP
 Chal Name : Secure Shell
 
-# Solution
-korang buka webshell yg disediakan
-[skrctf webshell](https://skrctf.me/webshell/)
-korang guna credentials yang telah diberikan
-team name:
-password:
+![image](https://user-images.githubusercontent.com/23289982/204454055-b1b20e38-269f-4186-8005-c82ca8f8c71f.png)
 
-# Flag
+## Solution
+* korang guna webshell yg disediakan [skrctf webshell](https://skrctf.me/webshell/)
+* taip `ssh teamname@skrctf.me -p 5000`
