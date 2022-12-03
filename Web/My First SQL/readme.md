@@ -7,5 +7,4 @@ Chal Name : My First SQL
 What is [SQL injection?](https://owasp.org/www-community/attacks/SQL_Injection)
 
 ## Solution
-payload `' OR '1`
-[list payload](https://github.com/payloadbox/sql-injection-payload-list)
+* payload `' OR '1` [list payload](https://github.com/payloadbox/sql-injection-payload-list)
