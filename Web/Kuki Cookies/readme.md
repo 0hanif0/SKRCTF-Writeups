@@ -7,5 +7,5 @@ Chal Name : Kuki Cookies
 What is URL encoding?
 
 ## Solution
-buka link > inspect element > applications > cookies > flag > show url decoded
+* buka link > inspect element > applications > cookies > flag > show url decoded
 
