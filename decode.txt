@@ -1,4 +1,0 @@
-866444663322244474433777
-tninecipher
-
-flag: SKR{tninecipher}
