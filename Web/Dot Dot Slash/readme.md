@@ -12,7 +12,7 @@ What is [Directory Traversal?](https://portswigger.net/web-security/file-path-tr
 
 ![image](https://user-images.githubusercontent.com/23289982/209268280-894fe280-23bb-4a2a-a7d6-ebbfffd25169.png)
 
-* buka web tersebut dan aku muiakan file traversal cmd seperti berikut `/../flag.txt` di url web itu
+* buka web tersebut dan aku muiakan directory traversal cmd seperti berikut `/../flag.txt` di url web itu
 * dan ini hasil error yang dapat
 
 ![image](https://user-images.githubusercontent.com/23289982/209268654-4ea0a3b3-ddae-4edb-957b-e76cf2251772.png)
