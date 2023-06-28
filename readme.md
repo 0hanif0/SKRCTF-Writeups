@@ -1,6 +1,6 @@
-# SKR CTF
-### my simple ctf writeups (malay)
-### ctf website [skrctf](https://skrctf.me)
-### ctf tools [skrtools](http://teamskr.rocks/tools)
+# SKR CTF Writeups
 
-* notes: this is not official writeups for skrctf . i just made for fun
+- CTF Website [SKRCTF](https://skrctf.me)
+- CTF Tools [SKR Tools](http://teamskr.rocks/tools)
+
+* notes: This is not an official writeup for Skrctf. I just made it for fun.
